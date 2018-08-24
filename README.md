@@ -4,6 +4,7 @@ This is a repo of tools I use to help be more productive and track my performanc
 - Trello
 - Evernote
 - Google Drive
+- Google Sheets
 - Pocket
 - Chrome Bookmarks
 - OneTab
